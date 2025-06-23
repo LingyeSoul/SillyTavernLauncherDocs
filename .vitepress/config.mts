@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "酒馆启动器",
   description: "简单易用的酒馆启动器",
+  head: [
+    ["link", { rel: "icon", href: `/favicon.ico` }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
