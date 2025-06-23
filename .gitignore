@@ -1,4 +1,4 @@
-/.vitepress
 /node_modules
 markdown-examples.md
 api-examples.md
+/.vitepress/cache
