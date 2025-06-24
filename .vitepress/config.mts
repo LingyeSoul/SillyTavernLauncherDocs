@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "酒馆启动器",
+  title: "SillyTavernLauncher酒馆启动器",
   description: "简单易用的酒馆启动器",
   head: [
     ["link", { rel: "icon", href: `/favicon.ico` }],
