@@ -3,6 +3,11 @@
 本教程旨在帮助新手快速通过酒馆启动器开始运行酒馆。
 :::
 
+## 界面截图
+<div align="center">
+  <img src="/main.png" alt="主界面" width="800"/>
+</div>
+
 ## 下载渠道
 ::: tip 提示
 推荐从夸克网盘或123云盘下载，如果你已经安装了Git和Node.js，你可以直接从Github Releases下载或着下载网盘中的独立包。
