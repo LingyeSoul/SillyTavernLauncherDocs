@@ -10,7 +10,7 @@
 
 ## 下载渠道
 ::: tip 提示
-推荐从夸克网盘或123云盘下载，如果你已经安装了Git和Node.js，你可以直接从Github Releases下载或着下载网盘中的独立包。
+推荐从夸克网盘下载，如果你已经安装了Git和Node.js，你可以直接从Github Releases下载或着下载网盘中的独立包。
 :::
 1. 从[Github Releases](https://github.com/LingyeSoul/SillyTavernLauncher/releases) 下载最新版 SillyTavernLauncher-win-vX.X.X.zip
 2. 从[夸克网盘](https://pan.quark.cn/s/efdad4e8e386) 提取码：UnZh 下载最新版本(有懒人包)
