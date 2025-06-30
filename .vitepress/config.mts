@@ -20,6 +20,7 @@ export default defineConfig({
         text: '开始使用',
         items: [
           { text: '开始使用', link: '/start' },
+          { text: '手动更新', link: '/update' },
           //{ text: 'markdown-examples', link: '/markdown-examples' },
           //{ text: 'Runtime API Examples', link: '/api-examples' }
         ]
