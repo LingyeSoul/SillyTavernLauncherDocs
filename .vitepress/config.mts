@@ -30,6 +30,12 @@ export default defineConfig({
         items: [
           { text: '设置讲解', link: '/setting' },
         ]
+      },
+      {
+        text: '错误排查',
+        items: [
+          { text: 'Git安装失败', link: '/gitconfig' },
+        ]
       }
     ],
 
