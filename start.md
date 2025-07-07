@@ -14,7 +14,7 @@
 :::
 1. 从[Github Releases](https://github.com/LingyeSoul/SillyTavernLauncher/releases) 下载最新版 SillyTavernLauncher-win-vX.X.X.zip
 2. 从[夸克网盘](https://pan.quark.cn/s/efdad4e8e386) 提取码：UnZh 下载最新版本(有懒人包)
-3. 从[百度网盘](链接：https://pan.baidu.com/s/1DbyewbHfCfS5XDC1c7RdSg?pwd=smmf) 提取码：smmf 下载懒人包
+3. 从[百度网盘](https://pan.baidu.com/s/1DbyewbHfCfS5XDC1c7RdSg?pwd=smmf) 提取码：smmf 下载懒人包
 
 ## 解压并运行
 1. 解压你所下载的压缩包文件到你想要存放的目录
