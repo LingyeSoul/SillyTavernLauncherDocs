@@ -12,7 +12,8 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: '主页', link: '/' },
-      { text: '文档', link: '/start' }
+      { text: '文档', link: '/start' },
+      { text: '',component: 'SponsorButton' }
     ],
 
     sidebar: [
@@ -36,14 +37,19 @@ export default defineConfig({
         items: [
           { text: 'Git安装失败', link: '/gitconfig' },
         ]
-      }
+      },
+      {
+        text: '打赏',
+        items: [
+          { text: '打赏开发者', link: '/tipping' },
+        ]
+      },
     ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/LingyeSoul/SillyTavernLauncher' }
     ],
     footer: {
-      
       copyright: 'Copyright © 2025-现在 泠夜Soul'
     }
   }
