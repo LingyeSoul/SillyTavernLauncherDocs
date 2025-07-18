@@ -3,6 +3,7 @@
 本教程旨在帮助新手快速通过酒馆启动器开始运行酒馆。
 :::
 
+[<img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="赞助作者">](https://ifdian.net/order/create?user_id=8a03ea64ebc211ebad0e52540025c377)
 ## 界面截图
 <div align="center">
   <img src="/main.png" alt="主界面" width="800"/>
