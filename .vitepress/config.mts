@@ -35,6 +35,7 @@ export default defineConfig({
       {
         text: '错误排查',
         items: [
+          { text: '常见问题', link: '/faqs' },
           { text: 'Git安装失败', link: '/gitconfig' },
         ]
       },
