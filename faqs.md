@@ -12,11 +12,29 @@
 ## 启动器窗口大小不正常
 该问题是GUI框架所致，目前无解，重新启动即可解决
 
+## 启动器打开弹出报错
+### 问题截图
+
+<div align="center">
+  <img src="/error.png" alt="报错" width="800"/>
+</div>
+
+### 解决方法
+以下方法任选其一即可，推荐去下载测试版，有人就这么解决了问题：
+1. 进群1050304255（1群）1021689755（2群），下载测试版 
+2. 从[Github Releases](https://github.com/LingyeSoul/SillyTavernLauncher/releases)下载最新版 (效果不清楚)
+3. 从[夸克网盘](https://pan.quark.cn/s/65ea8e934ff4?pwd=FQU5) 下载测试版
+4. 从[迅雷网盘](https://pan.xunlei.com/s/VOWxBdD0qB32WenxdS574GiSA1?pwd=6j7a) 下载懒人包
+
+::: tip 提示
+测试版可能会与正式版有一些区别，一般最新测试版基本上就是正式版了，测试版会有一个黑色控制台窗口，请勿关闭！
+:::
+
 ## SillyTavern进程已退出
 ### 问题截图
 
 <div align="center">
-  <img src="/SillyTavernexit.png" alt="主界面" width="800"/>
+  <img src="/SillyTavernexit.png" alt="异常退出" width="800"/>
 </div>
 
 ### 解决方法
