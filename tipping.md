@@ -7,5 +7,5 @@
 QQ用户：envoy QQ红包收到：10  
 QQ用户：锦上安 QQ红包收到：10  
 QQ用户：弦 QQ红包收到：4.76  
-爱发电用户: [爱发电用户_yM37](https://ifdian.net/u/e38e4e62692c11f0b7da5254001e7c00) 发电：5元 
+爱发电用户: [爱发电用户_yM37](https://ifdian.net/u/e38e4e62692c11f0b7da5254001e7c00) 发电：5元  
 QQ用户：还好 支付宝收到：20
