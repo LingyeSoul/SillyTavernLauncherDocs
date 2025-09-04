@@ -12,3 +12,4 @@ QQ用户：还好 支付宝收到：20
 QQ用户：左半边肥鸡(FFF) QQ红包收到：6  
 爱发电用户: [爱发电用户_DFnf](https://ifdian.net/u/fc9db234cdc611ed9e2652540025c377) 发电：15元  
 爱发电用户: [爱发电用户_AShx](https://ifdian.net/u/5dc6bd22db8211ec901a52540025c377) 发电：5元  
+爱发电用户: [天使说](https://ifdian.net/u/c0b08894869311ec826f52540025c377) 发电：10元  
