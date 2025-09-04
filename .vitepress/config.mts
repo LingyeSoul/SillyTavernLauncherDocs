@@ -13,7 +13,7 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '文档', link: '/start' },
-      { text: '',component: 'SponsorButton' }
+      { text: '', component: 'SponsorButton' }
     ],
 
     sidebar: [
@@ -43,6 +43,12 @@ export default defineConfig({
         text: '打赏',
         items: [
           { text: '打赏开发者', link: '/tipping' },
+        ]
+      },
+      {
+        text: '远程服务',
+        items: [
+          { text: '在闲鱼下单', link: '/xianyu' },
         ]
       },
     ],
