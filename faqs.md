@@ -22,9 +22,10 @@
 ### 解决方法
 以下方法任选其一即可，推荐去下载测试版，有人就这么解决了问题：
 1. 进群1050304255（1群）1021689755（2群），下载测试版 
-2. 从[Github Releases](https://github.com/LingyeSoul/SillyTavernLauncher/releases)下载最新版 (效果不清楚)
-3. 从[夸克网盘](https://pan.quark.cn/s/65ea8e934ff4?pwd=FQU5) 下载测试版
-4. 从[迅雷网盘](https://pan.xunlei.com/s/VOWxBdD0qB32WenxdS574GiSA1?pwd=6j7a) 下载懒人包
+2. 进群下载Nuitka打包版，实测有效
+3. 从[Github Releases](https://github.com/LingyeSoul/SillyTavernLauncher/releases)下载最新版 (效果不清楚)
+4. 从[夸克网盘](https://pan.quark.cn/s/65ea8e934ff4?pwd=FQU5) 下载测试版
+5. 从[迅雷网盘](https://pan.xunlei.com/s/VOWxBdD0qB32WenxdS574GiSA1?pwd=6j7a) 下载懒人包
 
 ::: tip 提示
 测试版可能会与正式版有一些区别，一般最新测试版基本上就是正式版了，测试版会有一个黑色控制台窗口，请勿关闭！
