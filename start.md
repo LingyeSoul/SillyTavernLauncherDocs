@@ -30,3 +30,6 @@
 ::: tip 提示
 更多操作，如局域网访问，端口修改，请查看：[设置讲解](/setting)
 :::
+
+## 想要免费的API？
+[点我注册硅基流动](https://cloud.siliconflow.cn/i/psjIioSR)
