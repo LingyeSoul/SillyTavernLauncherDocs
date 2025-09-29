@@ -1,7 +1,12 @@
 # 最新版本
 [![最新版本](https://img.shields.io/github/v/release/LingyeSoul/SillyTavernLauncher)](https://github.com/LingyeSoul/SillyTavernLauncher/releases)
 
-[<img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="赞助作者">](https://ifdian.net/order/create?user_id=8a03ea64ebc211ebad0e52540025c377)
+<a href="/tipping" style="display: inline-block; text-decoration: none;">
+  <svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#9C27B0"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white" font-weight="bold">打赏作者</text>
+  </svg>
+</a>
 
 ## 下载渠道
 ::: tip 提示
@@ -14,6 +19,10 @@
 5. 从[UC网盘](https://drive.uc.cn/s/e795f2b64d4d4)提取码：VMiF 下载懒人包
 
 ## 手动更新
+::: tip 提示
+从旧版本升级到1.2.5及以上版本，请先备份旧版本的SillyTavern文件夹，然后使用新文件夹存放新版本的文件，然后将env（懒人包的运行环境文件夹）和SillyTavern文件夹中的文件复制到新版本中。
+
+:::
 如无特殊说明，直接解压覆盖即可！
 
 ::: warning 警告

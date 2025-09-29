@@ -1,14 +1,12 @@
 <template>
   <a 
-    href="https://ifdian.net/order/create?user_id=8a03ea64ebc211ebad0e52540025c377" 
-    target="_blank" 
+    href="/tipping"
     class="sponsor-button"
   >
-    <img 
-      width="200" 
-      src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" 
-      alt="赞助作者" 
-    />
+    <svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" rx="8" ry="8" fill="#9C27B0"/>
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white" font-weight="bold">打赏作者</text>
+    </svg>
   </a>
 </template>
 
@@ -17,11 +15,12 @@
   display: flex;
   align-items: center;
   margin-left: 16px;
+  text-decoration: none;
 }
 
-.sponsor-button img {
+.sponsor-button svg {
   height: 32px;
-  width: auto; /* 保持图片比例 */
+  width: auto;
 }
 
 /* 移动端适配 */

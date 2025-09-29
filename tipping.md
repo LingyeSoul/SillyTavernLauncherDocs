@@ -1,5 +1,7 @@
 # 打赏作者
-[<img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="赞助作者">](https://ifdian.net/order/create?user_id=8a03ea64ebc211ebad0e52540025c377)
+<div>
+  <img src="/wx.png" alt="微信" width="300" style="display: inline-block;"/>
+</div>
 
 ## 通过注册硅基流动，给作者赚tokens
 [点我注册硅基流动](https://cloud.siliconflow.cn/i/psjIioSR)
