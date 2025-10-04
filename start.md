@@ -1,6 +1,6 @@
 # 入门
 ::: tip 提示
-本教程旨在帮助新手快速通过酒馆启动器开始运行酒馆。
+本教程旨在帮助新手快速通过酒馆启动器开始运行酒馆。官方QQ群聊1050304255（1群）
 :::
 
 <a href="/tipping" style="display: inline-block; text-decoration: none;">
@@ -9,6 +9,12 @@
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white" font-weight="bold">打赏作者</text>
   </svg>
 </a>
+
+## 作者的碎碎念
+::: warning 碎碎念
+作者不会玩酒馆，不能指望作者能够在酒馆里给你提供什么帮助  
+你也不要问我怎么手动搭建，我懒人包是干嘛的
+:::
 
 ## 界面截图
 <div align="center">
@@ -32,7 +38,8 @@
 4. 懒人包点击启动按钮即可运行酒馆
 
 ## 酒馆教程
-[点我直达](https://www.yuque.com/yinsa-0wzmf/rcv7g3?)
+[点我直达](https://www.yuque.com/yinsa-0wzmf/rcv7g3?)  
+教程里面的搭建教程不用看，懒人包解压即用
 ::: tip 提示
 更多操作，如局域网访问，端口修改，请查看：[设置讲解](/setting)
 :::
