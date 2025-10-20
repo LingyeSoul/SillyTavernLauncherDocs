@@ -17,6 +17,8 @@
 :::
 
 ## 安卓Termux版本
+仓库地址：[https://github.com/LingyeSoul/SillyTavernLauncher-For-Termux](https://github.com/LingyeSoul/SillyTavernLauncher-For-Termux)  
+
 ::: tip 提示
 该版本只包含核心功能，没有GUI，需要使用命令行，一键安装脚本理论上会把环境啥的都配置好，不需要你手动配置环境。
 :::
