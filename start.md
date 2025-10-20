@@ -16,6 +16,19 @@
 你也不要问我怎么手动搭建，我懒人包是干嘛的
 :::
 
+## 安卓Termux版本
+::: tip 提示
+该版本只包含核心功能，没有GUI，需要使用命令行，一键安装脚本理论上会把环境啥的都配置好，不需要你手动配置环境。
+:::
+国际用户一键安装脚本：  
+```bash
+curl -s https://raw.githubusercontent.com/LingyeSoul/SillyTavernLauncher-For-Termux/main/install_termux.sh | bash
+```
+中国大陆用户一键安装脚本： 
+```bash
+curl -s https://gitee.com/lingyesoul/SillyTavernLauncher-For-Termux/raw/main/install_termux_cn.sh | bash
+```
+
 ## 界面截图
 <div align="center">
   <img src="/main.png" alt="主界面" width="800"/>
