@@ -62,6 +62,7 @@ curl -s https://gitee.com/lingyesoul/SillyTavernLauncher-For-Termux/raw/main/ins
 [点我注册硅基流动，送14元赠金](https://cloud.siliconflow.cn/i/psjIioSR)
 
 ## 大额美团外卖神卷
+[独立领卷网站https://meituan.lingyesoul.top/](https://meituan.lingyesoul.top/)  
 使用微信或美团扫码哦！  
 图片可长按保存  
 <div>
