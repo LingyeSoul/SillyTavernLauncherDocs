@@ -9,6 +9,7 @@
 
 ## 大额美团外卖神卷
 使用微信或美团扫码哦！  
+图片可长按保存  
 <div>
   <img src="/meituan.jpeg" alt="美团" width="300" style="display: inline-block;"/>
 </div>

@@ -45,13 +45,12 @@ export default {
           setTimeout(() => {
             this.showNotification = false;
           }, 2000);
-        }, 1000);
+        }, 500);
       }).catch(err => {
         console.error('复制失败: ', err);
-        // 即使复制失败也尝试打开美团App
-        this.notificationText = '正在打开美团App...';
+        // 复制失败时提示用户长按图片扫码领取
+        this.notificationText = '复制失败，请长按图片使用美团App扫码领取';
         this.showNotification = true;
-        window.location.href = 'imeituan://www.meituan.com/home';
         
         setTimeout(() => {
           this.showNotification = false;
