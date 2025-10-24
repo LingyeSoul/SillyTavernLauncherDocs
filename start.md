@@ -61,5 +61,10 @@ curl -s https://gitee.com/lingyesoul/SillyTavernLauncher-For-Termux/raw/main/ins
 ## 想要免费的API？
 [点我注册硅基流动，送14元赠金](https://cloud.siliconflow.cn/i/psjIioSR)
 
-## 大额神卷，参与活动下单返利
-[点我参与活动，作者自己都在用](/tipping#大额外卖神卷-参与活动领返利)
+## 大额美团外卖神卷
+使用微信或美团扫码哦！  
+<div>
+  <img src="/meituan.jpeg" alt="美团" width="300" style="display: inline-block;"/>
+</div>
+复制链接请到微信打开，复制口令直接打开美团App即可使用。  
+<CopyButton />
