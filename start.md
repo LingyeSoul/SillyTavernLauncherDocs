@@ -60,3 +60,6 @@ curl -s https://gitee.com/lingyesoul/SillyTavernLauncher-For-Termux/raw/main/ins
 
 ## 想要免费的API？
 [点我注册硅基流动，送14元赠金](https://cloud.siliconflow.cn/i/psjIioSR)
+
+## 大额神卷，参与活动下单返利
+[点我参与活动，作者自己都在用](/tipping#大额外卖神卷-参与活动领返利)
