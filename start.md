@@ -59,4 +59,4 @@ curl -s https://gitee.com/lingyesoul/SillyTavernLauncher-For-Termux/raw/main/ins
 :::
 
 ## 想要免费的API？
-[点我注册硅基流动](https://cloud.siliconflow.cn/i/psjIioSR)
+[点我注册硅基流动，送14元赠金](https://cloud.siliconflow.cn/i/psjIioSR)

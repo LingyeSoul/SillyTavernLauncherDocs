@@ -1,10 +1,17 @@
 # 打赏作者
+通过微信赞赏码可以直接打赏作者，非常感谢！  
 <div>
   <img src="/wx.png" alt="微信" width="300" style="display: inline-block;"/>
 </div>
 
 ## 通过注册硅基流动，给作者赚tokens
 [点我注册硅基流动](https://cloud.siliconflow.cn/i/psjIioSR)
+
+## 大额外卖神卷，参与活动领返利
+作者自己都在用的外卖神器，扫码参与活动并下单，作者和你都可以拿到返利  
+<div>
+  <img src="/waimai.jpg" alt="外卖" width="300" style="display: inline-block;"/>
+</div>
 
 ## 打赏者
 感谢以下用户的打赏：  
