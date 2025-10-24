@@ -66,5 +66,5 @@ curl -s https://gitee.com/lingyesoul/SillyTavernLauncher-For-Termux/raw/main/ins
 <div>
   <img src="/meituan.jpeg" alt="美团" width="300" style="display: inline-block;"/>
 </div>
-复制链接请到微信打开，复制口令直接打开美团App即可使用。  
-<CopyButton />
+点击下方按钮直接打开美团App领券   
+<MeituanButton />

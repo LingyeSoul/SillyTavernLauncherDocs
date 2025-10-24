@@ -12,8 +12,8 @@
 <div>
   <img src="/meituan.jpeg" alt="美团" width="300" style="display: inline-block;"/>
 </div>
-复制链接请到微信打开，复制口令直接打开美团App即可使用。  
-<CopyButton />
+点击下方按钮直接打开美团App领券  
+<MeituanButton />
 
 ## 打赏者
 感谢以下用户的打赏：  

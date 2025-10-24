@@ -1,12 +1,12 @@
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
 import SponsorButton from '../../components/SponsorButton.vue'
-import CopyButton from '../../components/CopyButton.vue'
+import MeituanButton from '../../components/MeituanButton.vue'
 
 export default {
   ...DefaultTheme,
   enhanceApp({ app }) {
     app.component('SponsorButton', SponsorButton)
-    app.component('CopyButton', CopyButton)
+    app.component('MeituanButton', MeituanButton)
   }
 }
