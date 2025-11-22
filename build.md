@@ -7,7 +7,7 @@
 在开始打包之前，请确保你的系统满足以下要求：
 
 1. Windows 操作系统（推荐 Windows 10 或更高版本）
-2. Python 3.12 已安装
+2. Python 3.9 已安装（或更高版本，作者使用python3.12）
 3. Git 已安装
 4. 网络连接正常
 
@@ -45,16 +45,9 @@ pip install pyinstaller ruamel.yaml packaging Nuitka flet-desktop==0.28.3 aiohtt
 pip install git+https://github.com/LingyeSoul/flet_cli.git@main
 ```
 
-验证安装是否成功：
-
-```bash
-flet --version
-flet pack --help
-```
-
 ### 4. 打包应用程序
 
-使用 NuitkaBuild.bat 脚本打包应用程序，输入版本号即可
+运行 NuitkaBuild.bat 脚本打包应用程序，输入版本号即可
 
 ### 5. 检查打包结果
 
@@ -67,7 +60,7 @@ dist/
 │   └── ...              # 其他依赖文件
 └── ...                  
 ```
-
+main.dist 目录下包含打包后的应用程序文件，以及所有依赖文件。至此，打包完成。
 
 ## 自动化构建（推荐）
 
