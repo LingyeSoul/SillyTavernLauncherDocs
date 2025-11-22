@@ -22,6 +22,7 @@ export default defineConfig({
         items: [
           { text: '开始使用', link: '/start' },
           { text: '手动更新', link: '/update' },
+          { text: '自行打包', link: '/build' },
           //{ text: 'markdown-examples', link: '/markdown-examples' },
           //{ text: 'Runtime API Examples', link: '/api-examples' }
         ]
