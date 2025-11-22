@@ -46,12 +46,6 @@ export default defineConfig({
           { text: '打赏开发者', link: '/tipping' },
         ]
       },
-      {
-        text: '远程服务',
-        items: [
-          { text: '在闲鱼下单', link: '/xianyu' },
-        ]
-      },
     ],
 
     socialLinks: [
