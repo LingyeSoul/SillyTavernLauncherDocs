@@ -7,15 +7,8 @@
 ## 通过注册硅基流动，给作者赚tokens
 [点我注册硅基流动](https://cloud.siliconflow.cn/i/psjIioSR)
 
-## 大额美团外卖神卷
-[独立领卷网站https://meituan.lingyesoul.top/](https://meituan.lingyesoul.top/)  
-使用微信或美团扫码哦！  
-图片可长按保存  
-<div>
-  <img src="/meituan.jpeg" alt="美团" width="300" style="display: inline-block;"/>
-</div>
-点击下方按钮直接打开美团App领券  
-<MeituanButton />
+## 大额外卖神卷
+[大额神卷一键领/](https://coupon.lingyesoul.top/)  
 
 ## 打赏者
 感谢以下用户的打赏：  
